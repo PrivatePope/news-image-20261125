@@ -10,7 +10,22 @@ Entry for the make.fun bounty [Sum up 25 November's world news in one image](htt
 
 ## The day's stories
 
-(To be filled in by the build session once the day's news is researched.)
+All events happened, or were first reported, on Wednesday 25 November 2026.
+
+- **Lead — Pacific:** Australia and Solomon Islands sign a historic treaty in
+  Canberra. Australia becomes the islands' security partner of choice, the
+  Solomons end their security pact with China, no foreign military bases are
+  allowed, and Australia commits $740m over 10 years.
+- **North Korea:** Pyongyang expels Switzerland's diplomatic representative and
+  orders the office shut within 48 hours, after Bern sanctioned the Songdowon
+  children's camp over Ukrainian children.
+- **Markets:** Asian tech shares slide as confidence in the AI boom wobbles
+  after a Wall Street sell-off.
+- **Myanmar:** Fourteen nations back the UN court's genocide ruling on the
+  Rohingya; Britain sanctions Myanmar generals.
+- **Also today:** 15-year-old Vaibhav Suryavanshi hits a world-record 204\* off
+  53 balls in cricket; a 5.3-magnitude quake shakes Nepal, with tremors felt
+  across Sikkim.
 
 ## How it works
 
